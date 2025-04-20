@@ -1,0 +1,71 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java/Kotlin class files
+*.class
+
+# Generated files
+/bin/
+/gen/
+/out/
+
+# Gradle
+.gradle/
+/build/
+/**/build/
+
+# Gradle wrapper (keep the jar, ignore everything else)
+!/gradle/wrapper/gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Local configuration (SDK path, etc)
+local.properties
+
+# ProGuard
+proguard/
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+/*.iml
+*.iws
+*.ipr
+
+# Android Studio captures
+captures/
+
+# External native build
+.externalNativeBuild/
+
+# NDK
+obj/
+*.so
+cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (if you check these in by mistake)
+# google-services.json
+
+# Crashlytics / Fabric
+fabric.properties
+crashlytics.properties
+firebase-debug.log
+
+# MacOS filesystem
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Others
+*.hprof
